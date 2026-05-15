@@ -18,6 +18,7 @@ We encourage you to share your open source adapters with the community by submit
 | [Mobile Industrial Robots: MiR](https://www.mobile-industrial-robots.com/) | Full Control | https://github.com/osrf/fleet_adapter_mir |
 | [Mobile Industrial Robots: MiRFleet](https://www.mobile-industrial-robots.com/) | Full Control | https://github.com/osrf/fleet_adapter_mir |
 | [OTTO Motors](https://ottomotors.com/) | Full Control | https://github.com/open-rmf/fleet_adapter_clearpath |
+| [QuikSync](https://quikbot.ai/) | Full Control | https://github.com/quikbot/open-rmf-adapters-quiksync/tree/main/packages/fleet_adapter_quiksync |
 | [Senserbot](https://www.senserbot.com) | Full Control | https://bitbucket.org/rmf-sb/fleet_adapter_aurora/ |
 | [temi Robots](https://www.robotemi.com/) | Full Control | https://github.com/open-rmf/temi_fleet_adapter_python |
 | [TurtleBot4 Clearpath Robotics](https://clearpathrobotics.com/) | Full Control | https://github.com/open-rmf/fleet_adapter_tb4 |
@@ -32,6 +33,7 @@ We encourage you to share your open source adapters with the community by submit
 |-----|----|
 | [KONE](https://www.kone.com/en/) | https://github.com/sharp-rmf/kone_lift_controller |
 | [Octa Robotics](https://www.octa8.jp/service/) | https://github.com/octarobotics/lci-rmf-adapter |
+| [QuikSync](https://quikbot.ai/) | https://github.com/quikbot/open-rmf-adapters-quiksync/tree/main/packages/lift_adapter_quiksync |
 
 ## Door Adapters
 
@@ -40,6 +42,7 @@ We encourage you to share your open source adapters with the community by submit
 | [Dormakaba](https://www.dormakaba.com/) | https://github.com/open-rmf/door_adapter_dormakaba |
 | [Octa Robotics](https://www.octa8.jp/service/) | https://github.com/octarobotics/lci-rmf-adapter |
 | [Megazo](https://www.linkedin.com/company/megazo/) | https://github.com/KABAM-Robotics/door_adapter_megazo |
+| [QuikSync](https://quikbot.ai/) | https://github.com/quikbot/open-rmf-adapters-quiksync/tree/main/packages/door_adapter_quiksync |
 
 ## Workcells
 
